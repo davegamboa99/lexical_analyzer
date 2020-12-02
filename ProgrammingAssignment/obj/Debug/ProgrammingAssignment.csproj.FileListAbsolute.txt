@@ -1,0 +1,10 @@
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\bin\Debug\ProgrammingAssignment.exe.config
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\bin\Debug\ProgrammingAssignment.exe
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\bin\Debug\ProgrammingAssignment.pdb
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\obj\Debug\ProgrammingAssignment.csprojAssemblyReference.cache
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\obj\Debug\ProgrammingAssignment.Form1.resources
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\obj\Debug\ProgrammingAssignment.Properties.Resources.resources
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\obj\Debug\ProgrammingAssignment.csproj.GenerateResource.cache
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\obj\Debug\ProgrammingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\obj\Debug\ProgrammingAssignment.exe
+C:\Users\DaveG\source\repos\ProgrammingAssignment\ProgrammingAssignment\obj\Debug\ProgrammingAssignment.pdb
